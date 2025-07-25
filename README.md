@@ -16,9 +16,9 @@ This project aims to provide a **minimal, secure, and easy-to-use** command-line
 ---
 ## Team Members
 
-- Mohamed Wael 
-- Eslaam Ibrahim 
-- Malak Ali 
+- Ch.Vereendra 
+- P Ganesh Krishna Reddy 
+- Adireddy Pavan 
 
 ## 🔒 Security Approach
 
